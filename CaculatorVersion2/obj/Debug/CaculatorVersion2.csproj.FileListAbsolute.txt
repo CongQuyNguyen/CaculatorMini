@@ -1,0 +1,11 @@
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\bin\Debug\CaculatorVersion2.exe.config
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\bin\Debug\CaculatorVersion2.exe
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\bin\Debug\CaculatorVersion2.pdb
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.csproj.AssemblyReference.cache
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.csproj.SuggestedBindingRedirects.cache
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.Caculator.resources
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.Properties.Resources.resources
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.csproj.GenerateResource.cache
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.csproj.CoreCompileInputs.cache
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.exe
+D:\22110403_HK3\CSWINFORM\A-BAITAPTULUYEN\CaculatorVersion2\CaculatorVersion2\obj\Debug\CaculatorVersion2.pdb
